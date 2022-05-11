@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangechiKinyua
-- 👀 I’m interested in lerning code, probably land in automation
+- 👀 Interested in lerning code
 - 🌱 I’m currently doing HTML and CSS projects next I want to learn Javascript
 - 📫 You can reach on mail keshikinyua@gmail.com 
 
